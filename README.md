@@ -1,4 +1,4 @@
-#### Koruri Font
+#### Cute Yellow Blob Resurrector
 
 This module is yet another cute blob resurrenctor.
 
