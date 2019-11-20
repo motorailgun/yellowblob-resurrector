@@ -124,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Koruri Font Patch    "
+  ui_print "     Yellowblob Ressurector    "
   ui_print "*******************************"
 }
 
