@@ -15,3 +15,6 @@ This module is yet another cute blob resurrenctor.
 
 #### v0.0
 * First Release
+
+#### v0.1
+* Adoption to New Magisk Template

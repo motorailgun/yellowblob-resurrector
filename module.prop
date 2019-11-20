@@ -1,7 +1,6 @@
 id=yellowblob-resurrector-m-n
 name=Yellow Blob Resurrector M/N
-version=v0.0
-versionCode=0
+version=v0.1
+versionCode=1
 author=Motorailgun
 description=Yet another cute yellow blob resurrector. This is using M/N NotoColorEmoji and still in development.
-minMagisk=1700
